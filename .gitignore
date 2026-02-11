@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Output (mantém sample)
+output/scraped_*.csv
+output/scraped_*.json
+output/scraped_*.xlsx
+output/scraper.log
